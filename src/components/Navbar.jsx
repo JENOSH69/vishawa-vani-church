@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <nav className="bg-[#1E293B] text-white px-4 md:px-10 py-4 flex items-center justify-between sticky top-0 z-50 shadow-md">
       {/* Logo */}
-      <div className="text-2xl font-bold tracking-wide">Vishawa Vani</div>
+      <div className="text-2xl font-bold tracking-wide">Vishwa Vani</div>
 
       {/* Desktop Menu */}
       <ul className="hidden md:flex gap-8 items-center text-sm font-medium">
